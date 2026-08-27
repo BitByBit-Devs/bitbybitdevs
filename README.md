@@ -1,8 +1,8 @@
-# Bit by Bit Developers
+# BitbyBit Developers
 
 **Building the Future, Bit by Bit.**
 
-Bit by Bit is an IT solutions company focused on building practical digital solutions for businesses.
+BitbyBit is an IT solutions company focused on building practical digital solutions for businesses.
 
 ## Services
 
